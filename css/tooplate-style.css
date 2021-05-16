@@ -18,10 +18,10 @@ body {
     background: #222222;
 }
 
-#preload-01 { background: url(../img/constructive_bg_01.jpg) no-repeat -9999px -9999px; }
-#preload-02 { background: url(../img/constructive_bg_02.jpg) no-repeat -9999px -9999px; }
-#preload-03 { background: url(../img/constructive_bg_03.jpg) no-repeat -9999px -9999px; }
-#preload-04 { background: url(../img/constructive_bg_04.jpg) no-repeat -9999px -9999px; }
+#preload-01 { background: url(../img/fly-d-B6eNd1W1Cic-unsplash.jpg) no-repeat -9999px -9999px; }
+#preload-02 { background: url(../img/michael-scherback-25yFm13hcp4-unsplash.jpg) no-repeat -9999px -9999px; }
+#preload-03 { background: url(../img/marek-piwnicki-zSCLluSU_RU-unsplash.jpg) no-repeat -9999px -9999px; }
+#preload-04 { background: url(../img/reinaldo-simoes-s4Q09ogMZtk-unsplash.jpg) no-repeat -9999px -9999px; }
 
 ul { margin: 0; padding: 0; }
 
@@ -559,4 +559,61 @@ footer a { color: white; }
 /* JavaScript Turned Off */
 .no-js #loader-wrapper {
     display: none;
+}
+#nombre
+{
+    font-size: 400%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nombreDos
+{
+    font-size: 160%;
+}
+#competencias
+{
+    font-size: 400%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#690a5973
+}
+#lista_sobre_mi
+{
+    font-size: 160%;
+    color:#690450 ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#formacionProfesional
+{
+    font-size: 400%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #abc9dd;
+}
+#enseñanza
+{
+    color: #f9c922;
+}
+#enseñanzaBasica
+{
+    font-size: 120%;
+}
+#enseñanzaMedia
+{
+    font-size: 120%;
+}
+#enseñanzaSuperior
+{
+    font-size: 120%;
+}
+#conocimientos
+{
+    font-size: 120%;
+}
+#contacto
+{
+    font-size: 400%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(104, 236, 104, 0.589);
+}
+#infoContacto
+{
+    font-size: 120%;
 }
