@@ -587,7 +587,19 @@ footer a { color: white; }
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #abc9dd;
 }
-#enseñanza
+#enseñanzaB
+{
+    color: #f9c922;
+}
+#enseñanzaM
+{
+    color: #f9c922;
+}
+#enseñanzaS
+{
+    color: #f9c922;
+}
+#enseñanzaC
 {
     color: #f9c922;
 }
@@ -613,7 +625,11 @@ footer a { color: white; }
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgba(104, 236, 104, 0.589);
 }
-#infoContacto
+#infoContactoCO
+{
+    font-size: 120%;
+}
+#infoContactoCE
 {
     font-size: 120%;
 }
