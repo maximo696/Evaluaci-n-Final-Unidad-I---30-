@@ -18,10 +18,10 @@ body {
     background: #222222;
 }
 
-#preload-01 { background: url(../img/fly-d-B6eNd1W1Cic-unsplash.jpg) no-repeat -9999px -9999px; }
-#preload-02 { background: url(../img/michael-scherback-25yFm13hcp4-unsplash.jpg) no-repeat -9999px -9999px; }
-#preload-03 { background: url(../img/marek-piwnicki-zSCLluSU_RU-unsplash.jpg) no-repeat -9999px -9999px; }
-#preload-04 { background: url(../img/reinaldo-simoes-s4Q09ogMZtk-unsplash.jpg) no-repeat -9999px -9999px; }
+#preload-01 { background: url("https://i.imgur.com/ONaVF3s.jpg") no-repeat -9999px -9999px; }
+#preload-02 { background: url("https://i.imgur.com/xavAXDM.jpg") no-repeat -9999px -9999px; }
+#preload-03 { background: url("https://i.imgur.com/Ebjq463.jpg") no-repeat -9999px -9999px; }
+#preload-04 { background: url("https://i.imgur.com/ZljOyOC.jpg") no-repeat -9999px -9999px; }
 
 ul { margin: 0; padding: 0; }
 
@@ -672,3 +672,8 @@ footer a { color: white; }
 {
     border: 1px solid rgb(47, 193, 219); 
 }
+#imagenFinal
+{
+    border-radius: 30%;
+}
+
